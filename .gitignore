@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+brand-pack-work/
+test-runs/
+dist/brand-pack/
+*.zip
+!dist/brand-pack.zip
+# customer brand material never goes in the public repo
+brand-pack/assets/example-pack/
+examples/
+test-runs/
